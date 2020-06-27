@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/bin/Debug/netcoreapp3.1/calisma01.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/bin/Debug/netcoreapp3.1/calisma01.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/bin/Debug/netcoreapp3.1/calisma01.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/bin/Debug/netcoreapp3.1/calisma01.dll
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/bin/Debug/netcoreapp3.1/calisma01.pdb
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.dll
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.pdb
+/Users/amorfati/Desktop/dotnet-deneme/calisma01/obj/Debug/netcoreapp3.1/calisma01.genruntimeconfig.cache
