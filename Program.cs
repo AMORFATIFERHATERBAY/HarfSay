@@ -7,7 +7,7 @@ namespace calisma01
 
         static void Sirala(int[] sayi, char[] harf)
         {
-           
+
             int gecici, j;
             char chGeciciHarf;
             for (int i = 0; i < sayi.Length; ++i)
@@ -26,28 +26,30 @@ namespace calisma01
 
 
             }
-           
+
         }
 
         static void HarfBul(string cümle)
         {
             //int toplam = 0;
-            char[] butunharfler = new char[35];
-            int[] sayi = new int[35];
+            char[] butunharfler = new char[50];
+            int[] sayi = new int[50];
             char[] harf = cümle.ToCharArray(0, cümle.Length);
             char gecici;
             int sonIndex = 0;
             //int i=0;
             Array.Sort(harf);
+
             for (int i = 0; i < harf.Length; ++i)
             {
                 gecici = harf[i];
+                //Console.Write(gecici);
                 bool eslestimi = false;
 
 
                 for (int j = 0; j < butunharfler.Length; ++j)
                 {
-                    if (gecici.ToString().ToLower() == butunharfler[j].ToString())
+                    if (gecici.ToString().ToLower() == butunharfler[j].ToString().ToLower())
                     {
                         eslestimi = true;
                         sayi[j]++;
@@ -73,7 +75,7 @@ namespace calisma01
             }
             int k;
             Sirala(sayi, butunharfler);
-         
+
             for (k = 0; k < sonIndex; ++k)
             {
 
@@ -135,6 +137,10 @@ namespace calisma01
             // Console.WriteLine(harf[3]);
             // Console.WriteLine(harf.Length);
             // Console.WriteLine(harf.GetUpperBound(0));
+
+            // char[] chr = {'A','B'};
+            // foreach(char i in chr)
+            // Console.WriteLine(i.ToString().ToLower());
 
 
 
